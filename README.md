@@ -17,8 +17,7 @@ This Library Management System can significantly improve the efficiency and orga
 
 1. **Clone the Repository**:
 
-    ```bash
-    git clone https://github.com/yourusername/Library-Management-System.git
+    ```bashhttps://github.com/obasan12/Library_Management_System.git
     cd Library-Management-System
     ```
 
